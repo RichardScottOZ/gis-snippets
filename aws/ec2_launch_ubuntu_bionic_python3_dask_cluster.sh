@@ -40,7 +40,7 @@ aptitude install -y ffmpeg cdo nco
 ##########################################################################################
 # EFS installation and initialization
 ##########################################################################################
-# to use Amazone FS
+# to use Amazon FS
 aptitude -y install nfs-common
 
 # build EFS helper
